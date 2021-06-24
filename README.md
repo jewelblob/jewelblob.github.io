@@ -1,1 +1,3 @@
-# jewelblob.github.io
+# Jewel Blob
+
+### Welcome to Jewel Blob Inc.
